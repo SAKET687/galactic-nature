@@ -17,8 +17,8 @@
     },
     "fastn-typography.ftd": {
       "name": "fastn-typography.ftd",
-      "checksum": "27F846CCE95D03A22F061CD1CDE1669C977C0FA4671EE53C74B8D21DD3E8E561",
-      "size": 8693
+      "checksum": "E831325AFD6AC8FE4E1768494454004BC39F795D357F8A72C1A03E332495DB60",
+      "size": 8694
     },
     "index.ftd": {
       "name": "index.ftd",
@@ -27,5 +27,5 @@
     }
   },
   "zip_url": "https://codeload.github.com/saket687/galactic-nature/zip/refs/heads/main",
-  "checksum": "FAB5432D20A5CA9E7648F3E7EC2AD1F4C7B48B87DFAC15BD139FEAA82E41C6B3"
+  "checksum": "F974AA400E71F226AE6F52191CBCBF26DDE4ACD38DD62BB99ACB9A925209F676"
 }

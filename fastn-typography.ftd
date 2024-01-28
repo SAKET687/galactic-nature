@@ -34,105 +34,105 @@ width: fill-container
 background.solid: $inherited.colors.background.base
 
 -- heading-box: \$inherited.types.heading-hero
-line-height: 55
-size: 50
-weight: 700
+line-height: 60
+size: 52
+weight: 685
 headingtitle: $display-type.types.heading-hero
 
 -- heading-box: \$inherited.types.heading-large
-line-height: 46
-size: 42
-weight: 700
+line-height: 48
+size: 40
+weight: 685
 headingtitle: $display-type.types.heading-large
 
 -- heading-box: \$inherited.types.heading-medium
-line-height: 44
-size: 34
-weight: 550
+line-height: 46
+size: 32
+weight: 600
 headingtitle: $display-type.types.heading-medium
 
 -- heading-box: \$inherited.types.heading-small
-line-height: 37
-size: 27
-weight: 510
+line-height: 36
+size: 24
+weight: 500
 headingtitle: $display-type.types.heading-small
 
 -- heading-box: \$inherited.types.heading-tiny
-line-height: 25
-size: 16
-weight: 475
+line-height: 26
+size: 18
+weight: 500
 headingtitle: $display-type.types.heading-tiny
 
 -- heading-box: \$inherited.types.copy-large
 line-height: 24
 size: 16
-weight: 400
+weight: 425
 headingtitle: $display-type.types.copy-large
 
 -- heading-box: \$inherited.types.copy-regular
 line-height: 20
 size: 16
-weight: 400
+weight: 415
 headingtitle: $display-type.types.copy-regular
 
 -- heading-box: \$inherited.types.copy-small
 line-height: 20
 size: 16
-weight: 400
+weight: 415
 headingtitle: $display-type.types.copy-small
 
 -- heading-box: \$inherited.types.fine-print
-line-height: 23
-size: 17
-weight: 400
+line-height: 18
+size: 14
+weight: 415
 headingtitle: $display-type.types.fine-print
 
 -- heading-box: \$inherited.types.blockquote
-line-height: 21
-size: 18
-weight: 400
+line-height: 16
+size: 16
+weight: 415
 headingtitle: $display-type.types.blockquote
 
 -- heading-box: \$inherited.types.source-code
-line-height: 21
-size: 18
-weight: 400
+line-height: 19
+size: 16
+weight: 415
 headingtitle: $display-type.types.source-code
 
 -- heading-box: \$inherited.types.label-large
-line-height: 27
-size: 20
-weight: 400
+line-height: 25
+size: 16
+weight: 415
 headingtitle: $display-type.types.label-large
 
 -- heading-box: \$inherited.types.label-small
-line-height: 21
-size: 18
-weight: 400
+line-height: 18
+size: 16
+weight: 415
 headingtitle: $display-type.types.label-small
 
 -- heading-box: \$inherited.types.button-large
-line-height: 29
-size: 23
-weight: 400
+line-height: 26
+size: 18
+weight: 685
 headingtitle: $display-type.types.button-large
 
 -- heading-box: \$inherited.types.button-medium
-line-height: 26
-size: 20
-weight: 400
+line-height: 21
+size: 16
+weight: 685
 headingtitle: $display-type.types.button-medium
 
 -- heading-box: \$inherited.types.button-small
-line-height: 24
-size: 18
-weight: 400
+line-height: 19
+size: 14
+weight: 685
 headingtitle: $display-type.types.button-small
 
 -- heading-box: \$inherited.types.link
-line-height: 24
-size: 18
-weight: 400
+line-height: 21
+size: 14
+weight: 415
 headingtitle: $display-type.types.link
 
 

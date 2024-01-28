@@ -1,0 +1,31 @@
+{
+  "files": {
+    "FASTN.ftd": {
+      "name": "FASTN.ftd",
+      "checksum": "631F515D8760007C859EFA0B2752EFE79BE0F3C8094B506EDCD2BCD5AB5C608D",
+      "size": 669
+    },
+    "LICENSE.md": {
+      "name": "LICENSE.md",
+      "checksum": "A95364C3842F2C439BD629F65E304A2850239B443596467254EE96E71CA213DD",
+      "size": 1498
+    },
+    "README.md": {
+      "name": "README.md",
+      "checksum": "02DC492253094948AB57234394B26C569D6935E432E4F8B19C0CAD8E9687CF74",
+      "size": 680
+    },
+    "fastn-typography.ftd": {
+      "name": "fastn-typography.ftd",
+      "checksum": "27F846CCE95D03A22F061CD1CDE1669C977C0FA4671EE53C74B8D21DD3E8E561",
+      "size": 8693
+    },
+    "index.ftd": {
+      "name": "index.ftd",
+      "checksum": "0FD731F3F075C4E8210522A5FD17DB24CBEBA05BE7B3FB1D5A9A1A22F6FE55B8",
+      "size": 13024
+    }
+  },
+  "zip_url": "https://codeload.github.com/saket687/galactic-nature/zip/refs/heads/main",
+  "checksum": "FAB5432D20A5CA9E7648F3E7EC2AD1F4C7B48B87DFAC15BD139FEAA82E41C6B3"
+}

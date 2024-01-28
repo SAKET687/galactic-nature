@@ -1,17 +1,17 @@
--- import: <user_name>.github.io/<repo_name>
+-- import: saket687.github.io/galactic-nature
 
 
 
--- site-doc.doc-home: <repo_name> package
-site-title: `<repo_name>`
+-- site-doc.doc-home: galactic-nature package
+site-title: `galactic-nature`
 show-tabs: false
-github-url: <user_name>.github.io/<repo_name>
-current-package: <user_name>.github.io/<repo_name>
+github-url: saket687.github.io/galactic-nature
+current-package: saket687.github.io/galactic-nature
 
-Below are our default fastn `inherited` font types of <repo_name>.
+Below are our default fastn `inherited` font types of galactic-nature.
 
 -- display-type:
-types: $<repo_name>.types
+types: $galactic-nature.types
 
 
 -- end: site-doc.doc-home
